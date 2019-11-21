@@ -1,5 +1,5 @@
 # Germotion
-Here you can find two scripts with an ruled-based approach, estimating emotional and sentimental value of text
+Here you can find two scripts with an ruled-based approach, estimating emotional and sentimental value of text.
 
 ## Emotion Analysis
 Up to seven diffrent emotions (Verachtung, Freude, Wut,...) will be detected. The outcome will be an array of detected emotion in percent.
