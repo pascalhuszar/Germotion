@@ -1,4 +1,3 @@
-++ Pyhon 3.7 ++
 # Germotion
 Here you can find two scripts with an ruled-based approach, estimating emotional and sentimental value of text.
 
@@ -12,3 +11,5 @@ Of course positive value implies positive/good words.
 ### Resources:
 - Emotion dictionary: https://bitbucket.org/rklinger/german-emotion-dictionary/src/master/
 - Sentiment dictionary: http://wortschatz.uni-leipzig.de/en/download/
+
+++ Pyhon 3.7 ++
