@@ -26,7 +26,7 @@ Python 3.7
 Open one of the script. In the main function, enter a query and run main. 
 
 ## Resources:
-Emotion dictionary: https://bitbucket.org/rklinger/german-emotion-dictionary/src/master/
+Emotion dictionary: https://bitbucket.org/rklinger/german-emotion-dictionary/src/master/ 
 Sentiment dictionary: http://wortschatz.uni-leipzig.de/en/download/
 
 
