@@ -1,6 +1,6 @@
-# Germotion - Sentiment Analysis / Emotion Analysis for the german language.
+# Germotion - Sentiment Analysis / Emotion Analysis for the German language.
 
-Here you can find two scripts with an ruled-based approach, estimating emotional and sentimental value of text.
+Here you can find two scripts with an ruled based approach, estimating emotional and sentimental value of German text.
 
 ## Emotion Analysis
 Up to seven diffrent emotions (Verachtung, Freude, Wut,...) will be detected. The return will be an dictionary. Keys are emotions, value is self-descriptive. 
@@ -23,10 +23,10 @@ Positive value implies positive/good words, negative value negative/bad words.
 Python 3.7
 
 ## How To
-Open one of the script. In main(), enter a query and start the main. 
+Open one of the script. In the main function, enter a query and run main. 
 
 ## Resources:
-- Emotion dictionary: https://bitbucket.org/rklinger/german-emotion-dictionary/src/master/
-- Sentiment dictionary: http://wortschatz.uni-leipzig.de/en/download/
+Emotion dictionary: https://bitbucket.org/rklinger/german-emotion-dictionary/src/master/
+Sentiment dictionary: http://wortschatz.uni-leipzig.de/en/download/
 
 
