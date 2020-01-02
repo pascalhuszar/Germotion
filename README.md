@@ -1,6 +1,6 @@
 # Germotion - Sentiment Analysis / Emotion Analysis for the German language.
 
-Here you can find two scripts with an ruled based approach, estimating emotional and sentimental value of German text.
+Here you can find two scripts with a ruled based approach, estimating emotional and sentimental value of German text.
 
 ## Emotion Analysis
 Up to seven diffrent emotions (Verachtung, Freude, Wut,...) will be detected. The return will be an dictionary. Keys are emotions, value is self-descriptive. 
