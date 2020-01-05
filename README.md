@@ -3,7 +3,7 @@
 Here you can find two scripts with a ruled based approach, estimating emotional and sentimental value of German text.
 
 ## Emotion Analysis
-Up to seven diffrent emotions (Verachtung, Freude, Wut,...) will be detected. The return will be an dictionary. Keys are emotions, value is self-descriptive. 
+Up to seven diffrent emotions (Verachtung, Freude, Wut,...) will be detected. The return will be an dictionary. The value represent the share of the corresponding emotion. 
 ##### Example: 
 
 	Query: "Jede gute Sache im Leben, jeder Sieg der Liebe über den Hass, der Gerechtigkeit über die Ungerechtigkeit, der Gleichheit und Brüderlichkeit über die Ausbeutung, der Eintracht über die Zwietracht, gibt Zeugnis für die Auferstehung in unserem Leben."
