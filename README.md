@@ -23,7 +23,9 @@ Positive value implies positive/good words, negative value negative/bad words.
 Python 3.7
 
 ## How To
-Open one of the script. In the main function, enter a query and run main. 
+	1. pip3 install -r requirements.txt
+	2. Open one of the script. In the main function, enter a query and run main.
+
 
 ## Resources:
 Emotion dictionary: https://bitbucket.org/rklinger/german-emotion-dictionary/src/master/ \
