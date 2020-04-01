@@ -6,8 +6,7 @@ Here you can find two scripts with a ruled based approach, estimating emotional 
 Up to seven different emotions (Verachtung, Freude, Wut,...) will be detected. The return will be a dictionary. The value represent the share of the corresponding emotion. 
 ##### Example: 
 ```
-	Query: "Jede gute Sache im Leben, jeder Sieg der Liebe über den Hass, der Gerechtigkeit über die Ungerechtigkeit,
-	der Gleichheit und Brüderlichkeit über die Ausbeutung, der Eintracht über die Zwietracht, gibt Zeugnis für die Auferstehung in unserem Leben."
+	Query: "Jede gute Sache im Leben, jeder Sieg der Liebe über den Hass, der Gerechtigkeit über die Ungerechtigkeit, der Gleichheit und Brüderlichkeit über die Ausbeutung, der Eintracht über die Zwietracht, gibt Zeugnis für die Auferstehung in unserem Leben."
 ```
 ```python
 	Output: {"Verachtung": 34, "Freude": 12, "Wut": 54}
@@ -18,8 +17,7 @@ Take the sentimental value from two dictionaries. Both dictionaries contains of 
 Positive value implies positive/good words, negative value negative/bad words. 
 ##### Example: 
 ```python
-	Query: "Jede gute Sache im Leben, jeder Sieg der Liebe über den Hass, der Gerechtigkeit über die Ungerechtigkeit, 
-	der Gleichheit und Brüderlichkeit über die Ausbeutung, der Eintracht über die Zwietracht, gibt Zeugnis für die Auferstehung in unserem Leben."
+	Query: "Jede gute Sache im Leben, jeder Sieg der Liebe über den Hass, der Gerechtigkeit über die Ungerechtigkeit, der Gleichheit und Brüderlichkeit über die Ausbeutung, der Eintracht über die Zwietracht, gibt Zeugnis für die Auferstehung in unserem Leben."
 
 	Output: {'sentiment': -0.37}
 ```
