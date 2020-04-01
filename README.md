@@ -5,10 +5,9 @@ Here you can find two scripts with a ruled based approach, estimating emotional 
 ## Emotion Analysis
 Up to seven different emotions (Verachtung, Freude, Wut,...) will be detected. The return will be a dictionary. The value represent the share of the corresponding emotion. 
 ##### Example: 
-```
-	Query: "Jede gute Sache im Leben, jeder Sieg der Liebe über den Hass, der Gerechtigkeit über die Ungerechtigkeit, der Gleichheit und Brüderlichkeit über die Ausbeutung, der Eintracht über die Zwietracht, gibt Zeugnis für die Auferstehung in unserem Leben."
-```
 ```python
+	Query: "Jede gute Sache im Leben, jeder Sieg der Liebe über den Hass, der Gerechtigkeit über die Ungerechtigkeit, der Gleichheit und Brüderlichkeit über die Ausbeutung, der Eintracht über die Zwietracht, gibt Zeugnis für die Auferstehung in unserem Leben."
+
 	Output: {"Verachtung": 34, "Freude": 12, "Wut": 54}
 ```
 
